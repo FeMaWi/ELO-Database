@@ -1236,6 +1236,25 @@
                 "Terra Cimmeria"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-02-25",
+            "endResult": [
+                [
+                    "Simon",
+                    "126",
+                    "Ecoline"
+                ],
+                [
+                    "Anna",
+                    "102",
+                    "PhoboLog"
+                ]
+            ],
+            "expansions": [
+                "Tharsis"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1344,9 +1363,10 @@
                 1467.75,
                 1478.875,
                 1490.9375,
-                1507.9375
+                1507.9375,
+                1512.0
             ],
-            "nbrOfMatches": 13
+            "nbrOfMatches": 14
         },
         "Nick": {
             "name": "Nick",
@@ -1465,9 +1485,10 @@
             "ELOrank": [
                 1500,
                 1404.0,
-                1372.0
+                1372.0,
+                1356.0
             ],
-            "nbrOfMatches": 2
+            "nbrOfMatches": 3
         },
         "Chris": {
             "name": "Chris",
