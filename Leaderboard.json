@@ -1255,6 +1255,34 @@
                 "Tharsis"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-02-26",
+            "endResult": [
+                [
+                    "Jule",
+                    "102",
+                    "Cloudmind"
+                ],
+                [
+                    "Nick",
+                    "85",
+                    "Tycho"
+                ],
+                [
+                    "Lax",
+                    "80",
+                    "UnderSec"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Turmoil",
+                "Terra Cimmeria"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -1343,9 +1371,10 @@
                 1503.7916666666667,
                 1497.3437500000002,
                 1506.010416666667,
-                1525.010416666667
+                1525.010416666667,
+                1507.510416666667
             ],
-            "nbrOfMatches": 34
+            "nbrOfMatches": 35
         },
         "Simon": {
             "name": "Simon",
@@ -1387,9 +1416,10 @@
                 1565.5833333333333,
                 1579.6874999999998,
                 1573.020833333333,
-                1554.020833333333
+                1554.020833333333,
+                1551.020833333333
             ],
-            "nbrOfMatches": 16
+            "nbrOfMatches": 17
         },
         "Jule": {
             "name": "Jule",
@@ -1402,9 +1432,10 @@
                 1402.5,
                 1448.0,
                 1431.0,
-                1444.75
+                1444.75,
+                1465.25
             ],
-            "nbrOfMatches": 8
+            "nbrOfMatches": 9
         },
         "Marvman": {
             "name": "Marvman",
