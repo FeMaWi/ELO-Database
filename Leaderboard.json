@@ -1283,6 +1283,25 @@
                 "Terra Cimmeria"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-02-27",
+            "endResult": [
+                [
+                    "Anna",
+                    "83",
+                    "PhoboLog"
+                ],
+                [
+                    "Simon",
+                    "77",
+                    "Thorgate"
+                ]
+            ],
+            "expansions": [
+                "Tharsis"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1393,9 +1412,10 @@
                 1478.875,
                 1490.9375,
                 1507.9375,
-                1512.0
+                1512.0,
+                1501.0
             ],
-            "nbrOfMatches": 14
+            "nbrOfMatches": 15
         },
         "Nick": {
             "name": "Nick",
@@ -1517,9 +1537,10 @@
                 1500,
                 1404.0,
                 1372.0,
-                1356.0
+                1356.0,
+                1427.0
             ],
-            "nbrOfMatches": 3
+            "nbrOfMatches": 4
         },
         "Chris": {
             "name": "Chris",
