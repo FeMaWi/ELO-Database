@@ -1302,6 +1302,30 @@
                 "Tharsis"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-03-02",
+            "endResult": [
+                [
+                    "Simon",
+                    "79",
+                    "Inventrix"
+                ],
+                [
+                    "Thomas",
+                    "74",
+                    "Helion"
+                ],
+                [
+                    "Lax",
+                    "69",
+                    "Republik Tharsis"
+                ]
+            ],
+            "expansions": [
+                "Tharsis"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -1391,9 +1415,10 @@
                 1497.3437500000002,
                 1506.010416666667,
                 1525.010416666667,
-                1507.510416666667
+                1507.510416666667,
+                1494.2552083333335
             ],
-            "nbrOfMatches": 35
+            "nbrOfMatches": 36
         },
         "Simon": {
             "name": "Simon",
@@ -1413,9 +1438,10 @@
                 1490.9375,
                 1507.9375,
                 1512.0,
-                1501.0
+                1501.0,
+                1512.0
             ],
-            "nbrOfMatches": 15
+            "nbrOfMatches": 16
         },
         "Nick": {
             "name": "Nick",
@@ -1516,9 +1542,10 @@
                 1500,
                 1435.0,
                 1457.5,
-                1417.0
+                1417.0,
+                1434.5
             ],
-            "nbrOfMatches": 3
+            "nbrOfMatches": 4
         },
         "Kulti": {
             "name": "Kulti",
