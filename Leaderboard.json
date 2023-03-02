@@ -1326,6 +1326,25 @@
                 "Tharsis"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-03-02",
+            "endResult": [
+                [
+                    "Simon",
+                    "131",
+                    "Thorgate"
+                ],
+                [
+                    "Lax",
+                    "117",
+                    "Satrun Systems"
+                ]
+            ],
+            "expansions": [
+                "Tharsis"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1416,9 +1435,10 @@
                 1506.010416666667,
                 1525.010416666667,
                 1507.510416666667,
-                1494.2552083333335
+                1494.2552083333335,
+                1479.2552083333335
             ],
-            "nbrOfMatches": 36
+            "nbrOfMatches": 37
         },
         "Simon": {
             "name": "Simon",
@@ -1439,9 +1459,10 @@
                 1507.9375,
                 1512.0,
                 1501.0,
-                1512.0
+                1512.0,
+                1527.0
             ],
-            "nbrOfMatches": 16
+            "nbrOfMatches": 17
         },
         "Nick": {
             "name": "Nick",
