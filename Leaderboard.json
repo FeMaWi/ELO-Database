@@ -1366,6 +1366,26 @@
                 "Utopia Planitia"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-03-04",
+            "endResult": [
+                [
+                    "Simon",
+                    "113",
+                    "Point Luna"
+                ],
+                [
+                    "Anna",
+                    "100",
+                    "United Nations Mars Initiative"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Tharsis"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1482,9 +1502,10 @@
                 1512.0,
                 1501.0,
                 1512.0,
-                1527.0
+                1527.0,
+                1534.0
             ],
-            "nbrOfMatches": 17
+            "nbrOfMatches": 18
         },
         "Nick": {
             "name": "Nick",
@@ -1609,9 +1630,10 @@
                 1404.0,
                 1372.0,
                 1356.0,
-                1427.0
+                1427.0,
+                1410.0
             ],
-            "nbrOfMatches": 4
+            "nbrOfMatches": 5
         },
         "Chris": {
             "name": "Chris",
