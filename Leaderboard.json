@@ -1386,6 +1386,31 @@
                 "Tharsis"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-03-05",
+            "endResult": [
+                [
+                    "Lax",
+                    "90",
+                    "PhoboLog"
+                ],
+                [
+                    "Anna",
+                    "82",
+                    "Interplanetare Filmgesellschaft"
+                ],
+                [
+                    "Simon",
+                    "59",
+                    "Valley Trust"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Hellas"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -1478,9 +1503,10 @@
                 1525.010416666667,
                 1507.510416666667,
                 1494.2552083333335,
-                1479.2552083333335
+                1479.2552083333335,
+                1493.6276041666667
             ],
-            "nbrOfMatches": 37
+            "nbrOfMatches": 38
         },
         "Simon": {
             "name": "Simon",
@@ -1503,9 +1529,10 @@
                 1501.0,
                 1512.0,
                 1527.0,
-                1534.0
+                1534.0,
+                1516.5
             ],
-            "nbrOfMatches": 18
+            "nbrOfMatches": 19
         },
         "Nick": {
             "name": "Nick",
@@ -1631,9 +1658,10 @@
                 1372.0,
                 1356.0,
                 1427.0,
-                1410.0
+                1410.0,
+                1423.5
             ],
-            "nbrOfMatches": 5
+            "nbrOfMatches": 6
         },
         "Chris": {
             "name": "Chris",
