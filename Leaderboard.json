@@ -1411,6 +1411,28 @@
                 "Hellas"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-03-05",
+            "endResult": [
+                [
+                    "Felix",
+                    "107",
+                    "Thermex"
+                ],
+                [
+                    "Volker",
+                    "91",
+                    "United Nations Mars Initiative"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Turmoil",
+                "Arabia Terra"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1459,9 +1481,10 @@
                 1635.0,
                 1637.5,
                 1648.5,
-                1656.5
+                1656.5,
+                1663.5
             ],
-            "nbrOfMatches": 26
+            "nbrOfMatches": 27
         },
         "Lax": {
             "name": "Lax",
@@ -1624,9 +1647,10 @@
                 1471.0,
                 1465.0,
                 1456.0,
-                1448.0
+                1448.0,
+                1441.0
             ],
-            "nbrOfMatches": 10
+            "nbrOfMatches": 11
         },
         "Thomas": {
             "name": "Thomas",
