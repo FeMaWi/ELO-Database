@@ -1433,6 +1433,26 @@
                 "Arabia Terra"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-03-11",
+            "endResult": [
+                [
+                    "Anna",
+                    "120",
+                    "Cheung Shing Mars"
+                ],
+                [
+                    "Simon",
+                    "112",
+                    "Point Luna"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Tharsis"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1553,9 +1573,10 @@
                 1512.0,
                 1527.0,
                 1534.0,
-                1516.5
+                1516.5,
+                1499.0
             ],
-            "nbrOfMatches": 19
+            "nbrOfMatches": 20
         },
         "Nick": {
             "name": "Nick",
@@ -1683,9 +1704,10 @@
                 1356.0,
                 1427.0,
                 1410.0,
-                1423.5
+                1423.5,
+                1460.0
             ],
-            "nbrOfMatches": 6
+            "nbrOfMatches": 7
         },
         "Chris": {
             "name": "Chris",
