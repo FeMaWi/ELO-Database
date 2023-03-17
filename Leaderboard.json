@@ -1453,6 +1453,28 @@
                 "Tharsis"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-03-17",
+            "endResult": [
+                [
+                    "Felix",
+                    "225",
+                    "Pharmacy Union"
+                ],
+                [
+                    "Volker",
+                    "117",
+                    "Recylon"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Utopia Planitia"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1502,9 +1524,10 @@
                 1637.5,
                 1648.5,
                 1656.5,
-                1663.5
+                1663.5,
+                1670.5
             ],
-            "nbrOfMatches": 27
+            "nbrOfMatches": 28
         },
         "Lax": {
             "name": "Lax",
@@ -1669,9 +1692,10 @@
                 1465.0,
                 1456.0,
                 1448.0,
-                1441.0
+                1441.0,
+                1434.0
             ],
-            "nbrOfMatches": 11
+            "nbrOfMatches": 12
         },
         "Thomas": {
             "name": "Thomas",
