@@ -1475,6 +1475,28 @@
                 "Utopia Planitia"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-03-19",
+            "endResult": [
+                [
+                    "Felix",
+                    "105",
+                    "Inventrix"
+                ],
+                [
+                    "Volker",
+                    "88",
+                    "Manutec"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Tharsis"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1525,9 +1547,10 @@
                 1648.5,
                 1656.5,
                 1663.5,
-                1670.5
+                1670.5,
+                1677.5
             ],
-            "nbrOfMatches": 28
+            "nbrOfMatches": 29
         },
         "Lax": {
             "name": "Lax",
@@ -1693,9 +1716,10 @@
                 1456.0,
                 1448.0,
                 1441.0,
-                1434.0
+                1434.0,
+                1427.0
             ],
-            "nbrOfMatches": 12
+            "nbrOfMatches": 13
         },
         "Thomas": {
             "name": "Thomas",
