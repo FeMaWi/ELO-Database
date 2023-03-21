@@ -1497,6 +1497,27 @@
                 "Tharsis"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-03-21",
+            "endResult": [
+                [
+                    "Lax",
+                    "130",
+                    "PhoboLog"
+                ],
+                [
+                    "Simon",
+                    "91",
+                    "Mining Guild"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1593,9 +1614,10 @@
                 1507.510416666667,
                 1494.2552083333335,
                 1479.2552083333335,
-                1493.6276041666667
+                1493.6276041666667,
+                1509.6276041666667
             ],
-            "nbrOfMatches": 38
+            "nbrOfMatches": 39
         },
         "Simon": {
             "name": "Simon",
@@ -1620,9 +1642,10 @@
                 1527.0,
                 1534.0,
                 1516.5,
-                1499.0
+                1499.0,
+                1483.0
             ],
-            "nbrOfMatches": 20
+            "nbrOfMatches": 21
         },
         "Nick": {
             "name": "Nick",
