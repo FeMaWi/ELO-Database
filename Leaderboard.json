@@ -1518,6 +1518,34 @@
                 "Elysium"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "1993-03-18",
+            "endResult": [
+                [
+                    "Lax",
+                    "84",
+                    "Helion"
+                ],
+                [
+                    "Jule",
+                    "73",
+                    "Septem Tribus"
+                ],
+                [
+                    "Nick",
+                    "64",
+                    "HH Commerce"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Turmoil",
+                "Elysium"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -1615,9 +1643,10 @@
                 1494.2552083333335,
                 1479.2552083333335,
                 1493.6276041666667,
-                1509.6276041666667
+                1509.6276041666667,
+                1525.6276041666667
             ],
-            "nbrOfMatches": 39
+            "nbrOfMatches": 40
         },
         "Simon": {
             "name": "Simon",
@@ -1667,9 +1696,10 @@
                 1579.6874999999998,
                 1573.020833333333,
                 1554.020833333333,
-                1551.020833333333
+                1551.020833333333,
+                1532.020833333333
             ],
-            "nbrOfMatches": 17
+            "nbrOfMatches": 18
         },
         "Jule": {
             "name": "Jule",
@@ -1683,9 +1713,10 @@
                 1448.0,
                 1431.0,
                 1444.75,
-                1465.25
+                1465.25,
+                1468.25
             ],
-            "nbrOfMatches": 9
+            "nbrOfMatches": 10
         },
         "Marvman": {
             "name": "Marvman",
