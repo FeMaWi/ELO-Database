@@ -1546,6 +1546,55 @@
                 "Elysium"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-03-26",
+            "endResult": [
+                [
+                    "Nick",
+                    "145",
+                    "Septem Tribus"
+                ],
+                [
+                    "Lax",
+                    "123",
+                    "Cloudmind"
+                ],
+                [
+                    "Jule",
+                    "97",
+                    "Recylon"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Turmoil",
+                "Terra Cimmeria"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2023-03-26",
+            "endResult": [
+                [
+                    "Simon",
+                    "107",
+                    "Arklight"
+                ],
+                [
+                    "Anna",
+                    "92",
+                    "Stormcraft"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Tharsis"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1644,9 +1693,10 @@
                 1479.2552083333335,
                 1493.6276041666667,
                 1509.6276041666667,
-                1525.6276041666667
+                1525.6276041666667,
+                1524.1276041666667
             ],
-            "nbrOfMatches": 40
+            "nbrOfMatches": 41
         },
         "Simon": {
             "name": "Simon",
@@ -1672,9 +1722,10 @@
                 1534.0,
                 1516.5,
                 1499.0,
-                1483.0
+                1483.0,
+                1498.0
             ],
-            "nbrOfMatches": 21
+            "nbrOfMatches": 22
         },
         "Nick": {
             "name": "Nick",
@@ -1697,9 +1748,10 @@
                 1573.020833333333,
                 1554.020833333333,
                 1551.020833333333,
-                1532.020833333333
+                1532.020833333333,
+                1546.520833333333
             ],
-            "nbrOfMatches": 18
+            "nbrOfMatches": 19
         },
         "Jule": {
             "name": "Jule",
@@ -1714,9 +1766,10 @@
                 1431.0,
                 1444.75,
                 1465.25,
-                1468.25
+                1468.25,
+                1455.25
             ],
-            "nbrOfMatches": 10
+            "nbrOfMatches": 11
         },
         "Marvman": {
             "name": "Marvman",
@@ -1807,9 +1860,10 @@
                 1427.0,
                 1410.0,
                 1423.5,
-                1460.0
+                1460.0,
+                1440.0
             ],
-            "nbrOfMatches": 7
+            "nbrOfMatches": 8
         },
         "Chris": {
             "name": "Chris",
