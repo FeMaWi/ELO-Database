@@ -1595,6 +1595,27 @@
                 "Tharsis"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-03-28",
+            "endResult": [
+                [
+                    "Lax",
+                    "119",
+                    "PhoboLog"
+                ],
+                [
+                    "Simon",
+                    "95",
+                    "Thorgate"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Hellas"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1694,9 +1715,10 @@
                 1493.6276041666667,
                 1509.6276041666667,
                 1525.6276041666667,
-                1524.1276041666667
+                1524.1276041666667,
+                1539.1276041666667
             ],
-            "nbrOfMatches": 41
+            "nbrOfMatches": 42
         },
         "Simon": {
             "name": "Simon",
@@ -1723,9 +1745,10 @@
                 1516.5,
                 1499.0,
                 1483.0,
-                1498.0
+                1498.0,
+                1483.0
             ],
-            "nbrOfMatches": 22
+            "nbrOfMatches": 23
         },
         "Nick": {
             "name": "Nick",
