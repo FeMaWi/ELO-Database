@@ -1616,6 +1616,28 @@
                 "Hellas"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-04-01",
+            "endResult": [
+                [
+                    "Felix",
+                    "129",
+                    "Cheung Shing Mars"
+                ],
+                [
+                    "Volker",
+                    "109",
+                    "Thorgate"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Arabia Terra"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1667,9 +1689,10 @@
                 1656.5,
                 1663.5,
                 1670.5,
-                1677.5
+                1677.5,
+                1683.5
             ],
-            "nbrOfMatches": 29
+            "nbrOfMatches": 30
         },
         "Lax": {
             "name": "Lax",
@@ -1847,9 +1870,10 @@
                 1448.0,
                 1441.0,
                 1434.0,
-                1427.0
+                1427.0,
+                1421.0
             ],
-            "nbrOfMatches": 13
+            "nbrOfMatches": 14
         },
         "Thomas": {
             "name": "Thomas",
