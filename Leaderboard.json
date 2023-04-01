@@ -1638,6 +1638,31 @@
                 "Arabia Terra"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-04-01",
+            "endResult": [
+                [
+                    "Lax",
+                    "85",
+                    "Republik Tharsis"
+                ],
+                [
+                    "Alex",
+                    "79",
+                    "Teractor"
+                ],
+                [
+                    "Simon",
+                    "77",
+                    "Helion"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Elysium"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -1739,9 +1764,10 @@
                 1509.6276041666667,
                 1525.6276041666667,
                 1524.1276041666667,
-                1539.1276041666667
+                1539.1276041666667,
+                1546.5638020833335
             ],
-            "nbrOfMatches": 42
+            "nbrOfMatches": 43
         },
         "Simon": {
             "name": "Simon",
@@ -1769,9 +1795,10 @@
                 1499.0,
                 1483.0,
                 1498.0,
-                1483.0
+                1483.0,
+                1475.5
             ],
-            "nbrOfMatches": 23
+            "nbrOfMatches": 24
         },
         "Nick": {
             "name": "Nick",
@@ -1931,9 +1958,10 @@
         "Alex": {
             "name": "Alex",
             "ELOrank": [
-                1500
+                1500,
+                1506.0
             ],
-            "nbrOfMatches": 0
+            "nbrOfMatches": 1
         }
     }
 }
