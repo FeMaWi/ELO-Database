@@ -1927,6 +1927,13 @@
                 1456.0
             ],
             "nbrOfMatches": 1
+        },
+        "Alex": {
+            "name": "Alex",
+            "ELOrank": [
+                1500
+            ],
+            "nbrOfMatches": 0
         }
     }
 }
