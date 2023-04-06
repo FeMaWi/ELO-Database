@@ -1663,6 +1663,33 @@
                 "Elysium"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-04-05",
+            "endResult": [
+                [
+                    "Elli",
+                    "71",
+                    "Morning Star Inc."
+                ],
+                [
+                    "Felix",
+                    "69",
+                    "Pharmacy Union"
+                ],
+                [
+                    "Marvman",
+                    "66",
+                    "PhoboLog"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Tharsis"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -1715,9 +1742,10 @@
                 1663.5,
                 1670.5,
                 1677.5,
-                1683.5
+                1683.5,
+                1680.0
             ],
-            "nbrOfMatches": 30
+            "nbrOfMatches": 31
         },
         "Lax": {
             "name": "Lax",
@@ -1849,18 +1877,20 @@
             "ELOrank": [
                 1500,
                 1444.0,
-                1454.5
+                1454.5,
+                1446.0
             ],
-            "nbrOfMatches": 2
+            "nbrOfMatches": 3
         },
         "Elli": {
             "name": "Elli",
             "ELOrank": [
                 1500,
                 1494.0,
-                1458.5
+                1458.5,
+                1524.0
             ],
-            "nbrOfMatches": 2
+            "nbrOfMatches": 3
         },
         "Jakob": {
             "name": "Jakob",
