@@ -1690,6 +1690,28 @@
                 "Tharsis"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-04-08",
+            "endResult": [
+                [
+                    "Felix",
+                    "124",
+                    "Satrun Systems"
+                ],
+                [
+                    "Lax",
+                    "106",
+                    "Credicor"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1743,9 +1765,10 @@
                 1670.5,
                 1677.5,
                 1683.5,
-                1680.0
+                1680.0,
+                1690.0
             ],
-            "nbrOfMatches": 31
+            "nbrOfMatches": 32
         },
         "Lax": {
             "name": "Lax",
@@ -1793,9 +1816,10 @@
                 1525.6276041666667,
                 1524.1276041666667,
                 1539.1276041666667,
-                1546.5638020833335
+                1546.5638020833335,
+                1536.5638020833335
             ],
-            "nbrOfMatches": 43
+            "nbrOfMatches": 44
         },
         "Simon": {
             "name": "Simon",
