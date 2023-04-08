@@ -1712,6 +1712,28 @@
                 "Elysium"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-04-09",
+            "endResult": [
+                [
+                    "Lax",
+                    "118",
+                    "Point Luna"
+                ],
+                [
+                    "Felix",
+                    "111",
+                    "Pharmacy Union"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Hellas"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1766,9 +1788,10 @@
                 1677.5,
                 1683.5,
                 1680.0,
-                1690.0
+                1690.0,
+                1667.0
             ],
-            "nbrOfMatches": 32
+            "nbrOfMatches": 33
         },
         "Lax": {
             "name": "Lax",
@@ -1817,9 +1840,10 @@
                 1524.1276041666667,
                 1539.1276041666667,
                 1546.5638020833335,
-                1536.5638020833335
+                1536.5638020833335,
+                1559.5638020833335
             ],
-            "nbrOfMatches": 44
+            "nbrOfMatches": 45
         },
         "Simon": {
             "name": "Simon",
