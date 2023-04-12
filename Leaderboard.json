@@ -1734,6 +1734,27 @@
                 "Hellas"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-04-12",
+            "endResult": [
+                [
+                    "Simon",
+                    "102",
+                    "Interplanetare Filmgesellschaft"
+                ],
+                [
+                    "Lax",
+                    "83",
+                    "Vitor"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Hellas"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1841,9 +1862,10 @@
                 1539.1276041666667,
                 1546.5638020833335,
                 1536.5638020833335,
-                1559.5638020833335
+                1559.5638020833335,
+                1539.5638020833335
             ],
-            "nbrOfMatches": 45
+            "nbrOfMatches": 46
         },
         "Simon": {
             "name": "Simon",
@@ -1872,9 +1894,10 @@
                 1483.0,
                 1498.0,
                 1483.0,
-                1475.5
+                1475.5,
+                1495.5
             ],
-            "nbrOfMatches": 24
+            "nbrOfMatches": 25
         },
         "Nick": {
             "name": "Nick",
