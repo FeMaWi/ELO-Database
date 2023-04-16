@@ -1755,6 +1755,34 @@
                 "Hellas"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-04-16",
+            "endResult": [
+                [
+                    "Jule",
+                    "117",
+                    "UnderSec"
+                ],
+                [
+                    "Nick",
+                    "117",
+                    "Judges of Change"
+                ],
+                [
+                    "Lax",
+                    "95",
+                    "Prince$$ Limited"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Turmoil",
+                "Utopia Planitia"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -1863,9 +1891,10 @@
                 1546.5638020833335,
                 1536.5638020833335,
                 1559.5638020833335,
-                1539.5638020833335
+                1539.5638020833335,
+                1521.5638020833335
             ],
-            "nbrOfMatches": 46
+            "nbrOfMatches": 47
         },
         "Simon": {
             "name": "Simon",
@@ -1921,9 +1950,10 @@
                 1554.020833333333,
                 1551.020833333333,
                 1532.020833333333,
-                1546.520833333333
+                1546.520833333333,
+                1544.520833333333
             ],
-            "nbrOfMatches": 19
+            "nbrOfMatches": 20
         },
         "Jule": {
             "name": "Jule",
@@ -1939,9 +1969,10 @@
                 1444.75,
                 1465.25,
                 1468.25,
-                1455.25
+                1455.25,
+                1475.25
             ],
-            "nbrOfMatches": 11
+            "nbrOfMatches": 12
         },
         "Marvman": {
             "name": "Marvman",
