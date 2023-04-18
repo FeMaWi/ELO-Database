@@ -1783,6 +1783,52 @@
                 "Utopia Planitia"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-04-17",
+            "endResult": [
+                [
+                    "Felix",
+                    "129",
+                    "Odyssey Productions"
+                ],
+                [
+                    "Nick",
+                    "107",
+                    "Astrodrill"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Turmoil",
+                "Arabia Terra"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-04-17",
+            "endResult": [
+                [
+                    "Nick",
+                    "151",
+                    "Judges of Change"
+                ],
+                [
+                    "Felix",
+                    "95",
+                    "Pharmacy Union"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Turmoil",
+                "Utopia Planitia"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1838,9 +1884,11 @@
                 1683.5,
                 1680.0,
                 1690.0,
-                1667.0
+                1667.0,
+                1678.0,
+                1656.0
             ],
-            "nbrOfMatches": 33
+            "nbrOfMatches": 35
         },
         "Lax": {
             "name": "Lax",
@@ -1951,9 +1999,11 @@
                 1551.020833333333,
                 1532.020833333333,
                 1546.520833333333,
-                1544.520833333333
+                1544.520833333333,
+                1533.520833333333,
+                1555.520833333333
             ],
-            "nbrOfMatches": 20
+            "nbrOfMatches": 22
         },
         "Jule": {
             "name": "Jule",
