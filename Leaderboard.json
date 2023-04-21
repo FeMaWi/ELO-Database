@@ -1829,6 +1829,87 @@
                 "Utopia Planitia"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-04-19",
+            "endResult": [
+                [
+                    "Felix",
+                    "98",
+                    "Satrun Systems"
+                ],
+                [
+                    "Simon",
+                    "84",
+                    "Republik Tharsis"
+                ],
+                [
+                    "Lax",
+                    "80",
+                    "Poseidon"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Arabia Terra"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2023-04-19",
+            "endResult": [
+                [
+                    "Lax",
+                    "98",
+                    "Aridor"
+                ],
+                [
+                    "Felix",
+                    "97",
+                    "Ecoline"
+                ],
+                [
+                    "Simon",
+                    "91",
+                    "Poseidon"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Utopia Planitia"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2023-04-19",
+            "endResult": [
+                [
+                    "Nick",
+                    "127",
+                    "Teractor"
+                ],
+                [
+                    "Lax",
+                    "93",
+                    "Viron"
+                ],
+                [
+                    "Felix",
+                    "84",
+                    "Inventrix"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Terra Cimmeria"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -1886,9 +1967,12 @@
                 1690.0,
                 1667.0,
                 1678.0,
-                1656.0
+                1656.0,
+                1665.5,
+                1658.5,
+                1637.0
             ],
-            "nbrOfMatches": 35
+            "nbrOfMatches": 38
         },
         "Lax": {
             "name": "Lax",
@@ -1940,9 +2024,12 @@
                 1536.5638020833335,
                 1559.5638020833335,
                 1539.5638020833335,
-                1521.5638020833335
+                1521.5638020833335,
+                1508.0638020833335,
+                1527.5638020833335,
+                1531.0638020833335
             ],
-            "nbrOfMatches": 47
+            "nbrOfMatches": 50
         },
         "Simon": {
             "name": "Simon",
@@ -1972,9 +2059,11 @@
                 1498.0,
                 1483.0,
                 1475.5,
-                1495.5
+                1495.5,
+                1499.5,
+                1487.0
             ],
-            "nbrOfMatches": 25
+            "nbrOfMatches": 27
         },
         "Nick": {
             "name": "Nick",
@@ -2001,9 +2090,10 @@
                 1546.520833333333,
                 1544.520833333333,
                 1533.520833333333,
-                1555.520833333333
+                1555.520833333333,
+                1573.520833333333
             ],
-            "nbrOfMatches": 22
+            "nbrOfMatches": 23
         },
         "Jule": {
             "name": "Jule",
