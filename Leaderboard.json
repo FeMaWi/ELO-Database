@@ -1910,6 +1910,28 @@
                 "Terra Cimmeria"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-04-22",
+            "endResult": [
+                [
+                    "Lax",
+                    "147",
+                    "Pharmacy Union"
+                ],
+                [
+                    "Felix",
+                    "126",
+                    "Ecoline"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -1970,9 +1992,10 @@
                 1656.0,
                 1665.5,
                 1658.5,
-                1637.0
+                1637.0,
+                1616.0
             ],
-            "nbrOfMatches": 38
+            "nbrOfMatches": 39
         },
         "Lax": {
             "name": "Lax",
@@ -2027,9 +2050,10 @@
                 1521.5638020833335,
                 1508.0638020833335,
                 1527.5638020833335,
-                1531.0638020833335
+                1531.0638020833335,
+                1552.0638020833335
             ],
-            "nbrOfMatches": 50
+            "nbrOfMatches": 51
         },
         "Simon": {
             "name": "Simon",
