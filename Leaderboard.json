@@ -2261,6 +2261,191 @@
                 "Elysium"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-05-20",
+            "endResult": [
+                [
+                    "Jule",
+                    "109",
+                    "Arklight"
+                ],
+                [
+                    "Nick",
+                    "96",
+                    "Inventrix"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Elysium"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-05-01",
+            "endResult": [
+                [
+                    "Jule",
+                    "80",
+                    "PhoboLog"
+                ],
+                [
+                    "Felix",
+                    "66",
+                    "Astrodrill"
+                ],
+                [
+                    "Nick",
+                    "61",
+                    "Point Luna"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Hellas"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2023-05-05",
+            "endResult": [
+                [
+                    "Jule",
+                    "109",
+                    "Vitor"
+                ],
+                [
+                    "Nick",
+                    "104",
+                    "Inventrix"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Hellas"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-05-06",
+            "endResult": [
+                [
+                    "Jule",
+                    "135",
+                    "PhoboLog"
+                ],
+                [
+                    "Nick",
+                    "127",
+                    "Vitor"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Vastitas Borealis"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-05-06",
+            "endResult": [
+                [
+                    "Nick",
+                    "120",
+                    "Vitor"
+                ],
+                [
+                    "Jule",
+                    "118",
+                    "Inventrix"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Terra Cimmeria"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-05-11",
+            "endResult": [
+                [
+                    "Jule",
+                    "130",
+                    "Cheung Shing Mars"
+                ],
+                [
+                    "Nick",
+                    "117",
+                    "Vitor"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Hellas"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-06-09",
+            "endResult": [
+                [
+                    "Felix",
+                    "123",
+                    "Philares"
+                ],
+                [
+                    "Volker",
+                    "88",
+                    "Robinson Industries"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Elysium"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-06-11",
+            "endResult": [
+                [
+                    "Felix",
+                    "93",
+                    "Philares"
+                ],
+                [
+                    "Volker",
+                    "76",
+                    "Cheung Shing Mars"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Tharsis"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-06-12",
+            "endResult": [
+                [
+                    "Felix",
+                    "118",
+                    "Satrun Systems"
+                ],
+                [
+                    "Volker",
+                    "99",
+                    "Pharmacy Union"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Hellas"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -2332,9 +2517,13 @@
                 1616.5,
                 1599.5,
                 1591.5,
-                1573.5
+                1573.5,
+                1573.0,
+                1582.0,
+                1591.0,
+                1599.0
             ],
-            "nbrOfMatches": 49
+            "nbrOfMatches": 53
         },
         "Lax": {
             "name": "Lax",
@@ -2474,9 +2663,15 @@
                 1593.020833333333,
                 1610.020833333333,
                 1622.6874999999998,
-                1635.1874999999998
+                1635.1874999999998,
+                1612.1874999999998,
+                1592.6874999999998,
+                1573.6874999999998,
+                1555.6874999999998,
+                1571.6874999999998,
+                1554.6874999999998
             ],
-            "nbrOfMatches": 31
+            "nbrOfMatches": 37
         },
         "Jule": {
             "name": "Jule",
@@ -2497,9 +2692,15 @@
                 1478.75,
                 1484.75,
                 1473.0833333333333,
-                1478.5833333333333
+                1478.5833333333333,
+                1501.5833333333333,
+                1521.5833333333333,
+                1540.5833333333333,
+                1558.5833333333333,
+                1542.5833333333333,
+                1559.5833333333333
             ],
-            "nbrOfMatches": 16
+            "nbrOfMatches": 22
         },
         "Marvman": {
             "name": "Marvman",
@@ -2557,9 +2758,12 @@
                 1441.0,
                 1434.0,
                 1427.0,
-                1421.0
+                1421.0,
+                1412.0,
+                1403.0,
+                1395.0
             ],
-            "nbrOfMatches": 14
+            "nbrOfMatches": 17
         },
         "Thomas": {
             "name": "Thomas",
