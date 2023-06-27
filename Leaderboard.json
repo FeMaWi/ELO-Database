@@ -2522,6 +2522,111 @@
                 "Elysium"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-06-21",
+            "endResult": [
+                [
+                    "Felix",
+                    "200",
+                    "PhoboLog"
+                ],
+                [
+                    "Lax",
+                    "117",
+                    "Satrun Systems"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Utopia Planitia"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-06-21",
+            "endResult": [
+                [
+                    "Lax",
+                    "84",
+                    "Astrodrill"
+                ],
+                [
+                    "Felix",
+                    "80",
+                    "Ecoline"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Arabia Terra"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-06-22",
+            "endResult": [
+                [
+                    "Felix",
+                    "179",
+                    "Aridor"
+                ],
+                [
+                    "Nick",
+                    "154",
+                    "Teractor"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Utopia Planitia"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-06-24",
+            "endResult": [
+                [
+                    "Nick",
+                    "140",
+                    "Vitor"
+                ],
+                [
+                    "Lax",
+                    "123",
+                    "Ecoline"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Arabia Terra"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-06-24",
+            "endResult": [
+                [
+                    "Nick",
+                    "181",
+                    "Manutec"
+                ],
+                [
+                    "Lax",
+                    "102",
+                    "Satrun Systems"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Terra Cimmeria"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -2599,9 +2704,12 @@
                 1591.0,
                 1599.0,
                 1581.0,
-                1582.6666666666667
+                1582.6666666666667,
+                1596.6666666666667,
+                1577.6666666666667,
+                1593.6666666666667
             ],
-            "nbrOfMatches": 55
+            "nbrOfMatches": 58
         },
         "Lax": {
             "name": "Lax",
@@ -2666,9 +2774,13 @@
                 1526.0638020833335,
                 1533.0638020833333,
                 1527.5319010416665,
-                1541.7659505208333
+                1541.7659505208333,
+                1527.7659505208333,
+                1546.7659505208333,
+                1531.7659505208333,
+                1517.7659505208333
             ],
-            "nbrOfMatches": 60
+            "nbrOfMatches": 64
         },
         "Simon": {
             "name": "Simon",
@@ -2751,9 +2863,12 @@
                 1554.6874999999998,
                 1572.6874999999998,
                 1585.125,
-                1579.5625
+                1579.5625,
+                1563.5625,
+                1578.5625,
+                1592.5625
             ],
-            "nbrOfMatches": 40
+            "nbrOfMatches": 43
         },
         "Jule": {
             "name": "Jule",
