@@ -2627,6 +2627,89 @@
                 "Terra Cimmeria"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-07-09",
+            "endResult": [
+                [
+                    "Nick",
+                    "109",
+                    "Credicor"
+                ],
+                [
+                    "Lax",
+                    "76",
+                    "Valley Trust"
+                ],
+                [
+                    "Felix",
+                    "65",
+                    "Viron"
+                ],
+                [
+                    "Steve",
+                    "56",
+                    "Point Luna"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Terra Cimmeria"
+            ],
+            "playerCount": 4
+        },
+        {
+            "matchDate": "2023-07-09",
+            "endResult": [
+                [
+                    "Nick",
+                    "79",
+                    "Point Luna"
+                ],
+                [
+                    "Lax",
+                    "74",
+                    "Poseidon"
+                ],
+                [
+                    "Felix",
+                    "65",
+                    "United Nations Mars Initiative"
+                ],
+                [
+                    "Steve",
+                    "60",
+                    "Polyphemos"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Vastitas Borealis"
+            ],
+            "playerCount": 4
+        },
+        {
+            "matchDate": "2023-06-28",
+            "endResult": [
+                [
+                    "Lax",
+                    "116",
+                    "Point Luna"
+                ],
+                [
+                    "Felix",
+                    "96",
+                    "Ecoline"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -2643,9 +2726,11 @@
                 1541.5,
                 1521.6666666666667,
                 1506.2500000000002,
-                1493.2500000000002
+                1493.2500000000002,
+                1480.2500000000002,
+                1468.5833333333337
             ],
-            "nbrOfMatches": 10
+            "nbrOfMatches": 12
         },
         "Felix": {
             "name": "Felix",
@@ -2707,9 +2792,12 @@
                 1582.6666666666667,
                 1596.6666666666667,
                 1577.6666666666667,
-                1593.6666666666667
+                1593.6666666666667,
+                1586.0,
+                1578.3333333333333,
+                1560.3333333333333
             ],
-            "nbrOfMatches": 58
+            "nbrOfMatches": 61
         },
         "Lax": {
             "name": "Lax",
@@ -2778,9 +2866,12 @@
                 1527.7659505208333,
                 1546.7659505208333,
                 1531.7659505208333,
-                1517.7659505208333
+                1517.7659505208333,
+                1524.7659505208333,
+                1531.7659505208333,
+                1549.7659505208333
             ],
-            "nbrOfMatches": 64
+            "nbrOfMatches": 67
         },
         "Simon": {
             "name": "Simon",
@@ -2866,9 +2957,11 @@
                 1579.5625,
                 1563.5625,
                 1578.5625,
-                1592.5625
+                1592.5625,
+                1606.2291666666667,
+                1618.5625
             ],
-            "nbrOfMatches": 43
+            "nbrOfMatches": 45
         },
         "Jule": {
             "name": "Jule",
