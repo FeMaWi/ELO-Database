@@ -2710,6 +2710,77 @@
                 "Elysium"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-07-14",
+            "endResult": [
+                [
+                    "Nick",
+                    "122",
+                    "Helion"
+                ],
+                [
+                    "Lax",
+                    "121",
+                    "Celestic"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Arabia Terra"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-07-14",
+            "endResult": [
+                [
+                    "Nick",
+                    "142",
+                    "Terralabs"
+                ],
+                [
+                    "Lax",
+                    "134",
+                    "Valley Trust"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Utopia Planitia"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-07-14",
+            "endResult": [
+                [
+                    "Lax",
+                    "114",
+                    "Viron"
+                ],
+                [
+                    "Jule",
+                    "113",
+                    "Lakefront Resorts"
+                ],
+                [
+                    "Nick",
+                    "108",
+                    "Poseidon"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Vastitas Borealis"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -2869,9 +2940,12 @@
                 1517.7659505208333,
                 1524.7659505208333,
                 1531.7659505208333,
-                1549.7659505208333
+                1549.7659505208333,
+                1536.7659505208333,
+                1524.7659505208333,
+                1543.7659505208333
             ],
-            "nbrOfMatches": 67
+            "nbrOfMatches": 70
         },
         "Simon": {
             "name": "Simon",
@@ -2959,9 +3033,12 @@
                 1578.5625,
                 1592.5625,
                 1606.2291666666667,
-                1618.5625
+                1618.5625,
+                1631.5625,
+                1643.5625,
+                1623.0625
             ],
-            "nbrOfMatches": 45
+            "nbrOfMatches": 48
         },
         "Jule": {
             "name": "Jule",
@@ -2989,9 +3066,10 @@
                 1558.5833333333333,
                 1542.5833333333333,
                 1559.5833333333333,
-                1545.3888888888887
+                1545.3888888888887,
+                1546.8888888888887
             ],
-            "nbrOfMatches": 23
+            "nbrOfMatches": 24
         },
         "Marvman": {
             "name": "Marvman",
