@@ -2781,6 +2781,55 @@
                 "Vastitas Borealis"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-07-16",
+            "endResult": [
+                [
+                    "Jule",
+                    "99",
+                    "Teractor"
+                ],
+                [
+                    "Nick",
+                    "95",
+                    "Pharmacy Union"
+                ],
+                [
+                    "Lax",
+                    "91",
+                    "PhoboLog"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2023-07-16",
+            "endResult": [
+                [
+                    "Nick",
+                    "160",
+                    "Vitor"
+                ],
+                [
+                    "Jule",
+                    "107",
+                    "Aridor"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -2943,9 +2992,10 @@
                 1549.7659505208333,
                 1536.7659505208333,
                 1524.7659505208333,
-                1543.7659505208333
+                1543.7659505208333,
+                1529.7659505208333
             ],
-            "nbrOfMatches": 70
+            "nbrOfMatches": 71
         },
         "Simon": {
             "name": "Simon",
@@ -3036,9 +3086,11 @@
                 1618.5625,
                 1631.5625,
                 1643.5625,
-                1623.0625
+                1623.0625,
+                1619.5625,
+                1632.5625
             ],
-            "nbrOfMatches": 48
+            "nbrOfMatches": 50
         },
         "Jule": {
             "name": "Jule",
@@ -3067,9 +3119,11 @@
                 1542.5833333333333,
                 1559.5833333333333,
                 1545.3888888888887,
-                1546.8888888888887
+                1546.8888888888887,
+                1564.3888888888887,
+                1551.3888888888887
             ],
-            "nbrOfMatches": 24
+            "nbrOfMatches": 26
         },
         "Marvman": {
             "name": "Marvman",
