@@ -3277,6 +3277,32 @@
                 "Elysium"
             ],
             "playerCount": 4
+        },
+        {
+            "matchDate": "2023-10-26",
+            "endResult": [
+                [
+                    "Lax",
+                    "116",
+                    "Teractor"
+                ],
+                [
+                    "Simon",
+                    "102",
+                    "PhoboLog"
+                ],
+                [
+                    "Thomas",
+                    "87",
+                    "Satrun Systems"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Hellas"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -3470,9 +3496,10 @@
                 1495.5992838541667,
                 1509.0661892361113,
                 1496.0661892361113,
-                1484.732855902778
+                1484.732855902778,
+                1497.3664279513891
             ],
-            "nbrOfMatches": 83
+            "nbrOfMatches": 84
         },
         "Simon": {
             "name": "Simon",
@@ -3510,9 +3537,10 @@
                 1483.5,
                 1496.75,
                 1483.25,
-                1476.1666666666667
+                1476.1666666666667,
+                1473.0833333333335
             ],
-            "nbrOfMatches": 33
+            "nbrOfMatches": 34
         },
         "Nick": {
             "name": "Nick",
@@ -3690,9 +3718,10 @@
                 1457.5,
                 1417.0,
                 1434.5,
-                1413.5
+                1413.5,
+                1394.5
             ],
-            "nbrOfMatches": 5
+            "nbrOfMatches": 6
         },
         "Kulti": {
             "name": "Kulti",
