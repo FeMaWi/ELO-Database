@@ -3303,6 +3303,48 @@
                 "Hellas"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-09-15",
+            "endResult": [
+                [
+                    "Felix",
+                    "126",
+                    "Point Luna"
+                ],
+                [
+                    "Nick",
+                    "111",
+                    "Viron"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Turmoil",
+                "Arabia Terra"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-10-27",
+            "endResult": [
+                [
+                    "Felix",
+                    "103",
+                    "Mining Guild"
+                ],
+                [
+                    "Volker",
+                    "93",
+                    "Mons Insurance"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Turmoil",
+                "Elysium"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -3406,9 +3448,11 @@
                 1585.6666666666667,
                 1573.6666666666667,
                 1586.6666666666667,
-                1602.0
+                1602.0,
+                1622.0,
+                1629.0
             ],
-            "nbrOfMatches": 79
+            "nbrOfMatches": 81
         },
         "Lax": {
             "name": "Lax",
@@ -3600,9 +3644,10 @@
                 1655.8958333333333,
                 1668.8958333333333,
                 1680.8958333333333,
-                1680.2291666666667
+                1680.2291666666667,
+                1660.2291666666667
             ],
-            "nbrOfMatches": 55
+            "nbrOfMatches": 56
         },
         "Jule": {
             "name": "Jule",
@@ -3706,9 +3751,10 @@
                 1418.0,
                 1407.0,
                 1398.0,
-                1389.0
+                1389.0,
+                1382.0
             ],
-            "nbrOfMatches": 21
+            "nbrOfMatches": 22
         },
         "Thomas": {
             "name": "Thomas",
