@@ -3345,6 +3345,197 @@
                 "Elysium"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-11-10",
+            "endResult": [
+                [
+                    "Lax",
+                    "164",
+                    "Credicor"
+                ],
+                [
+                    "Felix",
+                    "104",
+                    "Helion"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-11-16",
+            "endResult": [
+                [
+                    "Lax",
+                    "90",
+                    "PhoboLog"
+                ],
+                [
+                    "Simon",
+                    "86",
+                    "Teractor"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-11-25",
+            "endResult": [
+                [
+                    "Nick",
+                    "113",
+                    "Ecoline"
+                ],
+                [
+                    "Lax",
+                    "100",
+                    "Lakefront Resorts"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Arabia Terra"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-12-03",
+            "endResult": [
+                [
+                    "Jule",
+                    "91",
+                    "Inventrix"
+                ],
+                [
+                    "Nick",
+                    "85",
+                    "Credicor"
+                ],
+                [
+                    "Lax",
+                    "84",
+                    "Satrun Systems"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Vastitas Borealis"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2023-12-05",
+            "endResult": [
+                [
+                    "Nick",
+                    "148",
+                    "Aridor"
+                ],
+                [
+                    "Lax",
+                    "135",
+                    "Polyphemos"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Utopia Planitia"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-12-15",
+            "endResult": [
+                [
+                    "Felix",
+                    "157",
+                    "Utopia Invest"
+                ],
+                [
+                    "Lax",
+                    "125",
+                    "Interplanetare Filmgesellschaft"
+                ],
+                [
+                    "Steve",
+                    "82",
+                    "Inventrix"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2023-12-16",
+            "endResult": [
+                [
+                    "Felix",
+                    "120",
+                    "Interplanetare Filmgesellschaft"
+                ],
+                [
+                    "Lax",
+                    "102",
+                    "Pharmacy Union"
+                ],
+                [
+                    "Steve",
+                    "83",
+                    "Thorgate"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Hellas"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2023-12-17",
+            "endResult": [
+                [
+                    "Felix",
+                    "120",
+                    "Point Luna"
+                ],
+                [
+                    "Lax",
+                    "97",
+                    "Valley Trust"
+                ],
+                [
+                    "Steve",
+                    "96",
+                    "Credicor"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Arabia Terra"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -3363,9 +3554,12 @@
                 1506.2500000000002,
                 1493.2500000000002,
                 1480.2500000000002,
-                1468.5833333333337
+                1468.5833333333337,
+                1456.5833333333337,
+                1445.0833333333337,
+                1434.5833333333337
             ],
-            "nbrOfMatches": 12
+            "nbrOfMatches": 15
         },
         "Felix": {
             "name": "Felix",
@@ -3450,9 +3644,13 @@
                 1586.6666666666667,
                 1602.0,
                 1622.0,
-                1629.0
+                1629.0,
+                1607.0,
+                1617.5,
+                1627.5,
+                1637.0
             ],
-            "nbrOfMatches": 81
+            "nbrOfMatches": 85
         },
         "Lax": {
             "name": "Lax",
@@ -3541,9 +3739,17 @@
                 1509.0661892361113,
                 1496.0661892361113,
                 1484.732855902778,
-                1497.3664279513891
+                1497.3664279513891,
+                1519.3664279513891,
+                1533.3664279513891,
+                1523.3664279513891,
+                1510.8664279513891,
+                1501.8664279513891,
+                1503.3664279513891,
+                1504.8664279513891,
+                1505.8664279513891
             ],
-            "nbrOfMatches": 84
+            "nbrOfMatches": 92
         },
         "Simon": {
             "name": "Simon",
@@ -3582,9 +3788,10 @@
                 1496.75,
                 1483.25,
                 1476.1666666666667,
-                1473.0833333333335
+                1473.0833333333335,
+                1459.0833333333335
             ],
-            "nbrOfMatches": 34
+            "nbrOfMatches": 35
         },
         "Nick": {
             "name": "Nick",
@@ -3645,9 +3852,12 @@
                 1668.8958333333333,
                 1680.8958333333333,
                 1680.2291666666667,
-                1660.2291666666667
+                1660.2291666666667,
+                1670.2291666666667,
+                1664.2291666666667,
+                1673.2291666666667
             ],
-            "nbrOfMatches": 56
+            "nbrOfMatches": 59
         },
         "Jule": {
             "name": "Jule",
@@ -3680,9 +3890,10 @@
                 1564.3888888888887,
                 1551.3888888888887,
                 1547.3888888888887,
-                1544.0555555555554
+                1544.0555555555554,
+                1562.5555555555554
             ],
-            "nbrOfMatches": 28
+            "nbrOfMatches": 29
         },
         "Marvman": {
             "name": "Marvman",
