@@ -3536,6 +3536,96 @@
                 "Arabia Terra"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2023-12-18",
+            "endResult": [
+                [
+                    "Lax",
+                    "118",
+                    "Cheung Shing Mars"
+                ],
+                [
+                    "Simon",
+                    "111",
+                    "Teractor"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Hellas"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-12-25",
+            "endResult": [
+                [
+                    "Felix",
+                    "173",
+                    "Ace"
+                ],
+                [
+                    "Volker",
+                    "98",
+                    "Manutec"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-12-28",
+            "endResult": [
+                [
+                    "Jule",
+                    "114",
+                    "Valley Trust"
+                ],
+                [
+                    "Nick",
+                    "114",
+                    "Point Luna"
+                ],
+                [
+                    "Lax",
+                    "106",
+                    "Manutec"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Arabia Terra"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2024-01-01",
+            "endResult": [
+                [
+                    "Felix",
+                    "189",
+                    "Thorgate"
+                ],
+                [
+                    "Lax",
+                    "148",
+                    "Manutec"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Terra Cimmeria"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -3648,9 +3738,11 @@
                 1607.0,
                 1617.5,
                 1627.5,
-                1637.0
+                1637.0,
+                1643.0,
+                1653.0
             ],
-            "nbrOfMatches": 85
+            "nbrOfMatches": 87
         },
         "Lax": {
             "name": "Lax",
@@ -3747,9 +3839,12 @@
                 1501.8664279513891,
                 1503.3664279513891,
                 1504.8664279513891,
-                1505.8664279513891
+                1505.8664279513891,
+                1519.8664279513891,
+                1508.3664279513891,
+                1498.3664279513891
             ],
-            "nbrOfMatches": 92
+            "nbrOfMatches": 95
         },
         "Simon": {
             "name": "Simon",
@@ -3789,9 +3884,10 @@
                 1483.25,
                 1476.1666666666667,
                 1473.0833333333335,
-                1459.0833333333335
+                1459.0833333333335,
+                1445.0833333333335
             ],
-            "nbrOfMatches": 35
+            "nbrOfMatches": 36
         },
         "Nick": {
             "name": "Nick",
@@ -3855,9 +3951,10 @@
                 1660.2291666666667,
                 1670.2291666666667,
                 1664.2291666666667,
-                1673.2291666666667
+                1673.2291666666667,
+                1667.2291666666667
             ],
-            "nbrOfMatches": 59
+            "nbrOfMatches": 60
         },
         "Jule": {
             "name": "Jule",
@@ -3891,9 +3988,10 @@
                 1551.3888888888887,
                 1547.3888888888887,
                 1544.0555555555554,
-                1562.5555555555554
+                1562.5555555555554,
+                1580.0555555555554
             ],
-            "nbrOfMatches": 29
+            "nbrOfMatches": 30
         },
         "Marvman": {
             "name": "Marvman",
@@ -3963,9 +4061,10 @@
                 1407.0,
                 1398.0,
                 1389.0,
-                1382.0
+                1382.0,
+                1376.0
             ],
-            "nbrOfMatches": 22
+            "nbrOfMatches": 23
         },
         "Thomas": {
             "name": "Thomas",
