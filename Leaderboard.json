@@ -3626,6 +3626,50 @@
                 "Terra Cimmeria"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2023-12-28",
+            "endResult": [
+                [
+                    "Nick",
+                    "148",
+                    "Utopia Invest"
+                ],
+                [
+                    "Jule",
+                    "125",
+                    "Pharmacy Union"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Arabia Terra"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2023-12-29",
+            "endResult": [
+                [
+                    "Nick",
+                    "238",
+                    "Viron"
+                ],
+                [
+                    "Jule",
+                    "182",
+                    "Pharmacy Union"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Hellas"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -3952,9 +3996,11 @@
                 1670.2291666666667,
                 1664.2291666666667,
                 1673.2291666666667,
-                1667.2291666666667
+                1667.2291666666667,
+                1679.2291666666667,
+                1690.2291666666667
             ],
-            "nbrOfMatches": 60
+            "nbrOfMatches": 62
         },
         "Jule": {
             "name": "Jule",
@@ -3989,9 +4035,11 @@
                 1547.3888888888887,
                 1544.0555555555554,
                 1562.5555555555554,
-                1580.0555555555554
+                1580.0555555555554,
+                1568.0555555555554,
+                1557.0555555555554
             ],
-            "nbrOfMatches": 30
+            "nbrOfMatches": 32
         },
         "Marvman": {
             "name": "Marvman",
