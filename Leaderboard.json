@@ -3722,6 +3722,93 @@
                 "Hellas"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2024-01-20",
+            "endResult": [
+                [
+                    "Simon",
+                    "108",
+                    "Teractor"
+                ],
+                [
+                    "Lax",
+                    "105",
+                    "Thorgate"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2024-01-28",
+            "endResult": [
+                [
+                    "Felix",
+                    "143",
+                    "Astrodrill"
+                ],
+                [
+                    "Lax",
+                    "129",
+                    "Pharmacy Union"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Vastitas Borealis"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2024-02-01",
+            "endResult": [
+                [
+                    "Nick",
+                    "118",
+                    "Viron"
+                ],
+                [
+                    "Lax",
+                    "93",
+                    "Valley Trust"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Terra Cimmeria"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2024-02-11",
+            "endResult": [
+                [
+                    "Lax",
+                    "93",
+                    "Pharmacy Union"
+                ],
+                [
+                    "Felix",
+                    "91",
+                    "Polyphemos"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Hellas"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -3837,9 +3924,11 @@
                 1637.0,
                 1643.0,
                 1653.0,
-                1644.6666666666667
+                1644.6666666666667,
+                1652.6666666666667,
+                1627.6666666666667
             ],
-            "nbrOfMatches": 88
+            "nbrOfMatches": 90
         },
         "Lax": {
             "name": "Lax",
@@ -3941,9 +4030,13 @@
                 1508.3664279513891,
                 1498.3664279513891,
                 1488.3664279513894,
-                1470.3664279513894
+                1470.3664279513894,
+                1454.3664279513894,
+                1446.3664279513894,
+                1440.3664279513894,
+                1465.3664279513894
             ],
-            "nbrOfMatches": 97
+            "nbrOfMatches": 101
         },
         "Simon": {
             "name": "Simon",
@@ -3985,9 +4078,10 @@
                 1473.0833333333335,
                 1459.0833333333335,
                 1445.0833333333335,
-                1463.0833333333335
+                1463.0833333333335,
+                1479.0833333333335
             ],
-            "nbrOfMatches": 37
+            "nbrOfMatches": 38
         },
         "Nick": {
             "name": "Nick",
@@ -4055,9 +4149,10 @@
                 1667.2291666666667,
                 1679.2291666666667,
                 1690.2291666666667,
-                1700.8958333333333
+                1700.8958333333333,
+                1706.8958333333333
             ],
-            "nbrOfMatches": 63
+            "nbrOfMatches": 64
         },
         "Jule": {
             "name": "Jule",
