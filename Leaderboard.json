@@ -3809,6 +3809,28 @@
                 "Hellas"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2024-02-14",
+            "endResult": [
+                [
+                    "Felix",
+                    "134",
+                    "Point Luna"
+                ],
+                [
+                    "Lax",
+                    "90",
+                    "Polyphemos"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Terra Cimmeria"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -3926,9 +3948,10 @@
                 1653.0,
                 1644.6666666666667,
                 1652.6666666666667,
-                1627.6666666666667
+                1627.6666666666667,
+                1636.6666666666667
             ],
-            "nbrOfMatches": 90
+            "nbrOfMatches": 91
         },
         "Lax": {
             "name": "Lax",
@@ -4034,9 +4057,10 @@
                 1454.3664279513894,
                 1446.3664279513894,
                 1440.3664279513894,
-                1465.3664279513894
+                1465.3664279513894,
+                1456.3664279513894
             ],
-            "nbrOfMatches": 101
+            "nbrOfMatches": 102
         },
         "Simon": {
             "name": "Simon",
