@@ -3831,6 +3831,82 @@
                 "Terra Cimmeria"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2024-02-16",
+            "endResult": [
+                [
+                    "Nick",
+                    "164",
+                    "Planetary Trade Federation"
+                ],
+                [
+                    "Felix",
+                    "108",
+                    "Madritch Food Seruices"
+                ],
+                [
+                    "Jakob",
+                    "106",
+                    "Atro biotics Arabia"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Turmoil",
+                "Tharsis"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2024-02-18",
+            "endResult": [
+                [
+                    "Jule",
+                    "131",
+                    "Septem Tribus"
+                ],
+                [
+                    "Nick",
+                    "110",
+                    "Taimanov Network"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Turmoil",
+                "Tharsis"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2024-02-18",
+            "endResult": [
+                [
+                    "Nick",
+                    "86",
+                    "Poseidon"
+                ],
+                [
+                    "Felix",
+                    "85",
+                    "Teractor"
+                ],
+                [
+                    "Lax",
+                    "74",
+                    "Ecoline"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Elysium"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -3949,9 +4025,11 @@
                 1644.6666666666667,
                 1652.6666666666667,
                 1627.6666666666667,
-                1636.6666666666667
+                1636.6666666666667,
+                1633.8333333333335,
+                1631.3333333333335
             ],
-            "nbrOfMatches": 91
+            "nbrOfMatches": 93
         },
         "Lax": {
             "name": "Lax",
@@ -4058,9 +4136,10 @@
                 1446.3664279513894,
                 1440.3664279513894,
                 1465.3664279513894,
-                1456.3664279513894
+                1456.3664279513894,
+                1448.8664279513894
             ],
-            "nbrOfMatches": 102
+            "nbrOfMatches": 103
         },
         "Simon": {
             "name": "Simon",
@@ -4174,9 +4253,12 @@
                 1679.2291666666667,
                 1690.2291666666667,
                 1700.8958333333333,
-                1706.8958333333333
+                1706.8958333333333,
+                1715.9479166666665,
+                1692.9479166666665,
+                1702.9479166666665
             ],
-            "nbrOfMatches": 64
+            "nbrOfMatches": 67
         },
         "Jule": {
             "name": "Jule",
@@ -4214,9 +4296,10 @@
                 1580.0555555555554,
                 1568.0555555555554,
                 1557.0555555555554,
-                1564.722222222222
+                1564.722222222222,
+                1587.722222222222
             ],
-            "nbrOfMatches": 33
+            "nbrOfMatches": 34
         },
         "Marvman": {
             "name": "Marvman",
@@ -4249,9 +4332,10 @@
                 1456.5,
                 1452.0,
                 1460.6666666666667,
-                1446.0
+                1446.0,
+                1449.5
             ],
-            "nbrOfMatches": 6
+            "nbrOfMatches": 7
         },
         "Reinhard": {
             "name": "Reinhard",
