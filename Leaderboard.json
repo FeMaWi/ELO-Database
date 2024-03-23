@@ -3962,6 +3962,54 @@
                 "Arabia Terra"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2024-02-16",
+            "endResult": [
+                [
+                    "Jakob",
+                    "81",
+                    "United Nations Mars Initiative"
+                ],
+                [
+                    "Felix",
+                    "74",
+                    "Madritch"
+                ],
+                [
+                    "Lax",
+                    "73",
+                    "Septem Tribus"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Turmoil",
+                "Arabia Terra"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2024-03-02",
+            "endResult": [
+                [
+                    "Felix",
+                    "251",
+                    "Arklight"
+                ],
+                [
+                    "Volker",
+                    "143",
+                    "Valley Trust"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Colonies",
+                "Tharsis"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -4086,9 +4134,11 @@
                 1633.8333333333335,
                 1631.3333333333335,
                 1628.8333333333335,
-                1636.8333333333335
+                1636.8333333333335,
+                1628.9166666666667,
+                1634.9166666666667
             ],
-            "nbrOfMatches": 95
+            "nbrOfMatches": 97
         },
         "Lax": {
             "name": "Lax",
@@ -4197,9 +4247,10 @@
                 1465.3664279513894,
                 1456.3664279513894,
                 1448.8664279513894,
-                1436.3664279513894
+                1436.3664279513894,
+                1424.6832139756948
             ],
-            "nbrOfMatches": 104
+            "nbrOfMatches": 105
         },
         "Simon": {
             "name": "Simon",
@@ -4394,9 +4445,10 @@
                 1452.0,
                 1460.6666666666667,
                 1446.0,
-                1449.5
+                1449.5,
+                1481.5
             ],
-            "nbrOfMatches": 7
+            "nbrOfMatches": 8
         },
         "Reinhard": {
             "name": "Reinhard",
@@ -4432,9 +4484,10 @@
                 1398.0,
                 1389.0,
                 1382.0,
-                1376.0
+                1376.0,
+                1370.0
             ],
-            "nbrOfMatches": 23
+            "nbrOfMatches": 24
         },
         "Thomas": {
             "name": "Thomas",
