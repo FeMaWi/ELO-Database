@@ -3907,6 +3907,61 @@
                 "Elysium"
             ],
             "playerCount": 3
+        },
+        {
+            "matchDate": "2024-03-23",
+            "endResult": [
+                [
+                    "Nick",
+                    "111",
+                    "Astrodrill"
+                ],
+                [
+                    "Felix",
+                    "108",
+                    "Credicor"
+                ],
+                [
+                    "Steve",
+                    "95",
+                    "Satrun Systems"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Terra Cimmeria"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2024-03-23",
+            "endResult": [
+                [
+                    "Felix",
+                    "100",
+                    "Point Luna"
+                ],
+                [
+                    "Steve",
+                    "89",
+                    "Aphrodite"
+                ],
+                [
+                    "Lax",
+                    "87",
+                    "Morning Star Inc."
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Turmoil",
+                "Arabia Terra"
+            ],
+            "playerCount": 3
         }
     ],
     "playerList": {
@@ -3928,9 +3983,11 @@
                 1468.5833333333337,
                 1456.5833333333337,
                 1445.0833333333337,
-                1434.5833333333337
+                1434.5833333333337,
+                1427.5833333333337,
+                1432.0833333333337
             ],
-            "nbrOfMatches": 15
+            "nbrOfMatches": 17
         },
         "Felix": {
             "name": "Felix",
@@ -4027,9 +4084,11 @@
                 1627.6666666666667,
                 1636.6666666666667,
                 1633.8333333333335,
-                1631.3333333333335
+                1631.3333333333335,
+                1628.8333333333335,
+                1636.8333333333335
             ],
-            "nbrOfMatches": 93
+            "nbrOfMatches": 95
         },
         "Lax": {
             "name": "Lax",
@@ -4137,9 +4196,10 @@
                 1440.3664279513894,
                 1465.3664279513894,
                 1456.3664279513894,
-                1448.8664279513894
+                1448.8664279513894,
+                1436.3664279513894
             ],
-            "nbrOfMatches": 103
+            "nbrOfMatches": 104
         },
         "Simon": {
             "name": "Simon",
@@ -4256,9 +4316,10 @@
                 1706.8958333333333,
                 1715.9479166666665,
                 1692.9479166666665,
-                1702.9479166666665
+                1702.9479166666665,
+                1712.4479166666665
             ],
-            "nbrOfMatches": 67
+            "nbrOfMatches": 68
         },
         "Jule": {
             "name": "Jule",
