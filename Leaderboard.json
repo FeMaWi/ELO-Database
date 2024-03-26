@@ -4010,6 +4010,57 @@
                 "Tharsis"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2024-03-25",
+            "endResult": [
+                [
+                    "Jule",
+                    "108",
+                    "PhoboLog"
+                ],
+                [
+                    "Nick",
+                    "102",
+                    "Satrun Systems"
+                ],
+                [
+                    "Lax",
+                    "94",
+                    "Poseidon"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Turmoil",
+                "Utopia Planitia"
+            ],
+            "playerCount": 3
+        },
+        {
+            "matchDate": "2024-03-25",
+            "endResult": [
+                [
+                    "Jule",
+                    "160",
+                    "Valley Trust"
+                ],
+                [
+                    "Nick",
+                    "138",
+                    "Morning Star Inc."
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Venus",
+                "Colonies",
+                "Turmoil",
+                "Arabia Terra"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -4248,9 +4299,10 @@
                 1456.3664279513894,
                 1448.8664279513894,
                 1436.3664279513894,
-                1424.6832139756948
+                1424.6832139756948,
+                1417.6832139756948
             ],
-            "nbrOfMatches": 105
+            "nbrOfMatches": 106
         },
         "Simon": {
             "name": "Simon",
@@ -4368,9 +4420,11 @@
                 1715.9479166666665,
                 1692.9479166666665,
                 1702.9479166666665,
-                1712.4479166666665
+                1712.4479166666665,
+                1703.9479166666665,
+                1682.9479166666665
             ],
-            "nbrOfMatches": 68
+            "nbrOfMatches": 70
         },
         "Jule": {
             "name": "Jule",
@@ -4409,9 +4463,11 @@
                 1568.0555555555554,
                 1557.0555555555554,
                 1564.722222222222,
-                1587.722222222222
+                1587.722222222222,
+                1603.222222222222,
+                1624.222222222222
             ],
-            "nbrOfMatches": 34
+            "nbrOfMatches": 36
         },
         "Marvman": {
             "name": "Marvman",
