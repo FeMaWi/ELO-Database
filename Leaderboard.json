@@ -4509,6 +4509,46 @@
                 "Tharsis"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "2025-02-16",
+            "endResult": [
+                [
+                    "Lax",
+                    "112",
+                    "Valley Trust"
+                ],
+                [
+                    "Franzi",
+                    "98",
+                    "Thorgate"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Elysium"
+            ],
+            "playerCount": 2
+        },
+        {
+            "matchDate": "2025-02-18",
+            "endResult": [
+                [
+                    "Lax",
+                    "159",
+                    "Vitor"
+                ],
+                [
+                    "Franzi",
+                    "97",
+                    "Teractor"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Elysium"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -4779,9 +4819,11 @@
                 1500.6832139756948,
                 1503.0,
                 1506.0,
-                1510.0
+                1510.0,
+                1515.0,
+                1520.0
             ],
-            "nbrOfMatches": 119
+            "nbrOfMatches": 121
         },
         "Simon": {
             "name": "Simon",
@@ -5104,9 +5146,11 @@
                 1500,
                 1400.0,
                 1368.0,
-                1352.0
+                1352.0,
+                1344.0,
+                1339.0
             ],
-            "nbrOfMatches": 3
+            "nbrOfMatches": 5
         }
     }
 }
