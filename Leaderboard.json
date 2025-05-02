@@ -4751,6 +4751,26 @@
                 "Elysium"
             ],
             "playerCount": 2
+        },
+        {
+            "matchDate": "1202-04-06",
+            "endResult": [
+                [
+                    "Lax",
+                    "128",
+                    "Arklight"
+                ],
+                [
+                    "Franzi",
+                    "112",
+                    "Valley Trust"
+                ]
+            ],
+            "expansions": [
+                "Prelude",
+                "Elysium"
+            ],
+            "playerCount": 2
         }
     ],
     "playerList": {
@@ -5033,9 +5053,10 @@
                 1595.0,
                 1601.0,
                 1606.0,
-                1579.0
+                1579.0,
+                1586.0
             ],
-            "nbrOfMatches": 131
+            "nbrOfMatches": 132
         },
         "Simon": {
             "name": "Simon",
@@ -5370,9 +5391,10 @@
                 1330.0,
                 1324.0,
                 1319.0,
-                1346.0
+                1346.0,
+                1339.0
             ],
-            "nbrOfMatches": 13
+            "nbrOfMatches": 14
         }
     }
 }
